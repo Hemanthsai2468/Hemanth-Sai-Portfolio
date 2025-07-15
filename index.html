@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hemanth Sai Anisetti - Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; scroll-behavior: smooth; }
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: #121212;
+      color: #e0e0e0;
+    }
+    header {
+      text-align: center;
+      padding: 60px 20px 20px;
+    }
+    header img {
+      width: 140px;
+      height: 140px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 4px solid #444;
+      box-shadow: 0 4px 20px rgba(255, 255, 255, 0.1);
+      cursor: pointer;
+    }
+    header h1 {
+      margin-top: 15px;
+      font-size: 30px;
+      color: #fff;
+    }
+    header p {
+      font-size: 16px;
+      color: #bbb;
+    }
+    nav {
+      position: sticky;
+      top: 0;
+      background: #1e1e1e;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.6);
+      padding: 10px 0;
+      z-index: 1000;
+    }
+    nav ul {
+      display: flex;
+      justify-content: center;
+      list-style: none;
+      flex-wrap: wrap;
+    }
+    nav ul li {
+      margin: 0 15px;
+    }
+    nav ul li a {
+      text-decoration: none;
+      color: #ddd;
+      font-weight: 500;
+    }
+    nav ul li a:hover {
+      color: #e91e63;
+    }
+    section {
+      padding: 50px 20px;
+      max-width: 850px;
+      margin: auto;
+      opacity: 0;
+      transform: translateY(30px);
+      transition: all 0.6s ease-in-out;
+    }
+    section.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    section h2 {
+      font-size: 24px;
+      margin-bottom: 15px;
+      color: #fff;
+    }
+    ul { list-style: none; padding-left: 0; }
+    li { margin-bottom: 10px; }
+    .projects a { color: #80cbc4; text-decoration: none; }
+    .projects a:hover { text-decoration: underline; }
+    .project-card {
+      background: #1e1e1e;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 12px;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.4);
+    }
+    footer {
+      background: #000;
+      color: #ccc;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    .btn {
+      display: inline-block;
+      background: #e91e63;
+      color: white;
+      padding: 10px 22px;
+      text-decoration: none;
+      border-radius: 25px;
+      font-weight: 500;
+      transition: background 0.3s;
+    }
+    .btn:hover {
+      background: #c2185b;
+    }
+    .contact {
+      text-align: center;
+      margin-top: 15px;
+    }
+    .contact-details a {
+      color: #80cbc4;
+      text-decoration: none;
+      font-size: 13px;
+    }
+    .contact-details a:hover {
+      text-decoration: underline;
+      color: #e91e63;
+    }
+    #topBtn {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      padding: 10px 15px;
+      background-color: #e91e63;
+      color: white;
+      border: none;
+      border-radius: 30px;
+      cursor: pointer;
+      display: none;
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 22px; }
+      section h2 { font-size: 20px; }
+    }
+
+    .cursor {
+  display: inline-block;
+  animation: blink 1s infinite;
+  color: #e91e63;
+}
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.skill-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+
+  .skill-tags span {
+    background: #1e1e1e;
+    padding: 8px 14px;
+    border-radius: 20px;
+    font-size: 14px;
+    color: #ffd700;
+    border: 1px solid #444;
+  }
+  #certificates ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+#certificates li {
+  margin-bottom: 10px;
+  font-size: 15px;
+  color: #e0e0e0;
+}
+
+.btn {
+  display: inline-block;
+  background: linear-gradient(135deg, #e91e63, #ff9800);
+  color: white;
+  padding: 12px 28px;
+  font-size: 16px;
+  text-decoration: none;
+  border-radius: 30px;
+  font-weight: 600;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+  background: linear-gradient(135deg, #ff5722, #ffc107);
+}
+
+/* Modal Styles */
+#profileModal {
+  display: none;
+  position: fixed;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.8);
+}
+#profileModal .modal-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+#profileModal img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  box-shadow: 0 4px 30px rgba(255, 255, 255, 0.3);
+}
+#profileModal .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  font-size: 35px;
+  color: white;
+  cursor: pointer;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #ddd;
+  font-weight: 500;
+  position: relative;
+  padding: 6px 10px;
+  transition: color 0.3s ease;
+}
+
+/* Hover effect */
+nav ul li a::after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  height: 2px;
+  left: 0;
+  bottom: 0;
+  background-color: #e91e63;
+  transition: width 0.3s ease;
+}
+
+nav ul li a:hover::after {
+  width: 100%;
+}
+
+/* Active section styles */
+nav ul li a.active {
+  color: #fff;
+  background: rgba(233, 30, 99, 0.15); /* Soft glow */
+  border-radius: 6px;
+}
+
+nav ul li a.active::after {
+  width: 100%;
+}
+section {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.8s ease, transform 0.6s ease;
+}
+
+section.visible {
+  opacity: 1;
+  transform: translateY(0);
+  animation: bounceIn 0.6s ease forwards;
+}
+
+@keyframes bounceIn {
+  0%   { transform: translateY(30px); }
+  60%  { transform: translateY(-10px); }
+  100% { transform: translateY(0); }
+}
+
+
+
+
+  </style>
+</head>
+<body>
+
+  <nav>
+    <ul>
+      <li><a href="#career"><i class="fas fa-bullseye"></i> Career Objective</a></li>
+      <li><a href="#about"><i class="fas fa-user"></i> About</a></li>
+      <li><a href="#education"><i class="fas fa-graduation-cap"></i> Education</a></li>
+      <li><a href="#skills"><i class="fas fa-tools"></i> Skills</a></li>
+      <li><a href="#projects"><i class="fas fa-code"></i> Projects</a></li>
+      <li><a href="#certificates"><i class="fas fa-award"></i> Certificates</a></li>
+      <li><a href="#contact"><i class="fas fa-envelope"></i> Contact</a></li>
+    </ul>
+  </nav>
+
+  <header>
+   <img src="1000352774.webp" alt="Profile Photo" onclick="openModal()" />
+<div id="profileModal" onclick="closeModal()">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <img src="1000352774.webp" alt="Profile Enlarged" />
+  </div>
+</div>
+
+    <h1>Hemanth Sai Anisetti</h1>
+    <p><span id="typed-text"></span><span class="cursor">|</span></p>
+    <div style="text-align:center; margin-top: 30px;">
+<a href="RESUME_NEW.pdf" download class="btn" id="resume-download">Download Resume</a>
+  </div>
+
+  </header>
+
+  <section id="career">
+  <h2>Career Objective</h2>
+<p>A proactive and detail-oriented Computer Science Engineering student aiming to join a reputed organization that encourages innovation and continuous learning. Eager to apply my technical knowledge, problem-solving abilities, and strong communication and teamwork skills in a challenging environment to contribute effectively to organizational goals.</p>
+</section>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I am Hemanth Sai Anisetti, a Computer Science Engineering graduate from Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, with a specialization in Artificial Intelligence and Machine Learning. I’m passionate about solving real-world problems using Python, deep learning, and web development. With strong academic foundations and hands-on experience through projects, I enjoy working in collaborative environments, learning new technologies, and building impactful solutions. I’m currently seeking opportunities to grow my career and contribute to innovative work in the tech industry.</p>
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <ul>
+      <li><strong>B.Tech - Computer Science</strong>, Vel Tech Institute (2021–2025) – 75%</li>
+      <li><strong>Intermediate - MPC</strong>, Sri Chaitanya Jr. College (2019–2021) – 78%</li>
+      <li><strong>SSC</strong>, Viswabharathi High School (2018–2019) – 79%</li>
+    </ul>
+  </section>
+
+ <section id="skills">
+  <h2>Technical Skills</h2>
+  <div class="skill-tags">
+    <span>Python</span>
+    <span>Java</span>
+    <span>C</span>
+    <span>HTML</span>
+    <span>CSS</span>
+    <span>MySQL</span>
+    </div>
+
+    
+  <h2>Tools & Technologies</h2>
+    <ul>
+      <li>VS Code, Git & GitHub, Jyputer, Postman, Google Colab</li>
+    </ul>
+
+  <h2>Professional Skills</h2>
+  <ul>
+    <li>Communication</li>
+    <li>Problem Solving</li>
+    <li>Time Management</li>
+  </ul>
+
+  <h2>Languages</h2>
+  <ul>
+    <li>Telugu – Native</li>
+    <li>English – Fluent</li>
+    <li>Hindi – Conversational</li>
+  </ul>
+
+</section>
+
+
+ 
+
+ <section id="projects">
+  <h2>Projects</h2>
+
+  <div class="project-card">
+    <h3>🌱 Soybean Seed Classification Using Deep Learning</h3>
+    <p>A deep learning project using CNN to classify different soybean seed varieties. Helps farmers and researchers automate seed identification with improved accuracy.</p>
+    <a href="https://github.com/Hemanthsai2468/Soyabean-seed-classification" target="_blank">GitHub Repo</a>
+  </div>
+
+  <div class="project-card">
+    <h3>🫁 Pneumonia Detection Using Deep Learning on Chest X-ray</h3>
+    <p>Built a CNN-based model to detect pneumonia from chest X-ray images. Designed to support early diagnosis and assist healthcare professionals in screening.</p>
+    <a href="https://github.com/Hemanthsai2468/pneumonia-detection-using-deep-learning.git" target="_blank">GitHub Repo</a>
+  </div>
+
+  <div class="project-card">
+    <h3>🩺 Automated Health Monitoring System with Real-Time Alerts</h3>
+    <p>Developed a system using ML and cloud alerts to monitor vital health parameters and notify caregivers of abnormal readings in real time.</p>
+    <a href="https://github.com/Hemanthsai2468/Automated-Health-monitoring-System-With-Alerts" target="_blank">GitHub Repo</a>
+  </div>
+</section>
+
+  <section id="certificates">
+  <h2>Certificates</h2>
+  <ul>
+    
+    <li>🐍 <strong>Lions Club:</strong> Python Certificate – 2023</li>
+    <li>🎓 <strong>Infosys Springboard:</strong> Course Completion – 2023</li>
+    <li>🤖 <strong>IBM:</strong> Artificial Intelligence Internship – 2024</li>
+    <li>📊 <strong>Machine Learning Using Python</strong> – 2024</li>
+  </ul>
+</section>
+
+ 
+<section id="contact">
+  <h2>Contact</h2>
+  <div class="contact-details">
+    <p><i class="fas fa-envelope"></i> <a href="mailto:hemanthsaianisetty5@gmail.com">hemanthsaianisetty5@gmail.com</a></p>
+    <p><i class="fas fa-phone"></i> <a href="tel:+919440677639">+91 94406 77639</a></p>
+    <p><i class="fab fa-linkedin"></i> <a href="https://linkedin.com/in/hemanthsai-anisetti-930428220" target="_blank">linkedin.com/in/hemanthsai-anisetti-930428220</a></p>
+    <p><i class="fab fa-github"></i> <a href="https://github.com/Hemanth2468" target="_blank">github.com/Hemanth2468</a></p>
+  </div>
+
+  <iframe 
+  src="https://www.google.com/maps?q=Hyderabad,+India&output=embed" 
+  width="100%" 
+  height="250" 
+  style="border:0; margin-top:20px;" 
+  allowfullscreen="" 
+  loading="lazy">
+</iframe>
+
+</section>
+
+<a href="https://wa.me/919440677639" target="_blank" title="Chat on WhatsApp" 
+   style="position:fixed;bottom:20px;left:20px;background:#25D366;color:white;
+          padding:10px 15px;border-radius:50%;text-align:center;font-size:20px;">
+  <i class="fab fa-whatsapp"></i>
+</a>
+
+  <footer>
+    <p>© 2025 Hemanth Sai Anisetti. All rights reserved.</p>
+  </footer>
+
+  <button id="topBtn" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">↑</button>
+
+  <script>
+  // Typing effect for roles
+  const roles = [
+    "AI & Machine Learning Graduate 👨‍🎓",
+    "Python Developer 🐍",
+    "Deep Learning Explorer 🧠",
+    "Full-Stack Web Enthusiast 🌐",
+    "Tech Problem Solver ⚙️",
+    "Future Innovator 🚀"
+  ];
+
+  let roleIndex = 0, charIndex = 0;
+  const typedText = document.getElementById("typed-text");
+  const cursor = document.querySelector(".cursor");
+
+  function type() {
+    if (charIndex < roles[roleIndex].length) {
+      typedText.textContent += roles[roleIndex].charAt(charIndex);
+      charIndex++;
+      setTimeout(type, 100);
+    } else {
+      setTimeout(erase, 2000);
+    }
+  }
+
+  function erase() {
+    if (charIndex > 0) {
+      typedText.textContent = roles[roleIndex].substring(0, charIndex - 1);
+      charIndex--;
+      setTimeout(erase, 40);
+    } else {
+      roleIndex = (roleIndex + 1) % roles.length;
+      setTimeout(type, 500);
+    }
+  }
+
+  // Modal open/close functions
+  function openModal() {
+    document.getElementById("profileModal").style.display = "block";
+  }
+  function closeModal() {
+    document.getElementById("profileModal").style.display = "none";
+  }
+
+  // Run once DOM is fully loaded
+  document.addEventListener("DOMContentLoaded", () => {
+    setTimeout(type, 500); // start typing
+
+    // Section fade-in animation
+    const allSections = document.querySelectorAll("section");
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("visible");
+        }
+      });
+    }, { threshold: 0.1 });
+    allSections.forEach(section => observer.observe(section));
+
+    // Navbar active link highlight
+    const navLinks = document.querySelectorAll("nav ul li a");
+    function activateLinkOnScroll() {
+      let current = "";
+      allSections.forEach((section) => {
+        const sectionTop = section.offsetTop - 120;
+        const sectionHeight = section.offsetHeight;
+        if (window.scrollY >= sectionTop && window.scrollY < sectionTop + sectionHeight) {
+          current = section.getAttribute("id");
+        }
+      });
+
+      navLinks.forEach((link) => {
+        link.classList.remove("active");
+        if (link.getAttribute("href") === `#${current}`) {
+          link.classList.add("active");
+        }
+      });
+    }
+
+    window.addEventListener("scroll", () => {
+      document.getElementById("topBtn").style.display = window.scrollY > 300 ? "block" : "none";
+      activateLinkOnScroll(); // update nav active state
+    });
+
+    activateLinkOnScroll(); // call once on load
+  });
+
+  document.addEventListener("DOMContentLoaded", () => {
+  const allSections = document.querySelectorAll("section");
+
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add("visible");
+      }
+    });
+  }, { threshold: 0.1 });
+
+  allSections.forEach(section => observer.observe(section));
+});
+const allSections = document.querySelectorAll("section");
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add("visible");
+    }
+  });
+}, { threshold: 0.1 });
+
+allSections.forEach(section => observer.observe(section));
+
+
+</script>
+
+</body>
+</html>
