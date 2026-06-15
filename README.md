@@ -6,7 +6,7 @@
 
 ### ServiceNow Administrator | CSA Certified | AI & Machine Learning Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&center=true\&vCenter=true\&width=900\&lines=ServiceNow+Administrator;CSA+Certified+Professional;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Enterprise+Automation+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&center=true\&vCenter=true\&width=900\&lines=ServiceNow+Administrator;CSA+Certified;AI+%26+ML+Enthusiast;Enterprise+Automation+Specialist;Python+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,25 +16,26 @@
 
 🎓 Computer Science Engineering Graduate
 
-💼 ServiceNow Admin Intern at Techongen India Pvt. Ltd.
-
 🏅 ServiceNow Certified System Administrator (CSA)
 
-🚀 Passionate about ServiceNow, Enterprise Automation, Artificial Intelligence, Machine Learning and Modern Web Applications.
+💼 ServiceNow Admin Intern at Techongen India Pvt. Ltd.
 
-🌱 Currently Exploring:
+🚀 Passionate about ServiceNow, Enterprise Automation, AI, Machine Learning, Data Engineering and Modern Web Applications.
+
+🌱 Currently Learning
 
 * Advanced ServiceNow Development
+* Databricks & Data Engineering
 * AI & Machine Learning
-* Enterprise Workflow Automation
 * Cloud Technologies
-* Data Engineering
+* Enterprise Workflow Automation
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/Hemanthsai2468">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
@@ -46,6 +47,7 @@
 <a href="mailto:hemanthsaianisetty5@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
 </p>
 
 ---
@@ -56,92 +58,67 @@
 
 <p align="center">
 
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" />
-</a>
-
-<a href="https://www.java.com/">
-<img src="https://skillicons.dev/icons?i=java" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" />
-</a>
-
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-<img src="https://skillicons.dev/icons?i=c" />
-</a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a> <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" /></a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" /></a>
 
 </p>
-
----
 
 ### 🌐 Web Technologies
 
 <p align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" />
-</a>
-
-<a href="https://firebase.google.com/">
-<img src="https://skillicons.dev/icons?i=firebase" />
-</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a> <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
 
 </p>
-
----
 
 ### 🗄️ Database & Development Tools
 
 <p align="center">
 
-<a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" />
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+
+</p>
+
+### ☁️ Enterprise Platforms
+
+<p align="center">
+
+<a href="https://www.servicenow.com/">
+<img src="https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white"/>
 </a>
 
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" />
+<a href="https://www.zendesk.com/">
+<img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white"/>
 </a>
 
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://powerbi.microsoft.com/">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </a>
 
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" />
+<a href="https://www.tableau.com/">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</a>
+
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p align="center">
+
+<a href="https://www.tensorflow.org/">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</a>
+
+<a href="https://keras.io/">
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Convolutional_neural_network">
+<img src="https://img.shields.io/badge/CNN%20Models-4285F4?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
-
-### ☁️ Enterprise Platforms
-
-<div align="center">
-
-🔹 ServiceNow    
-🔹 Zendesk    
-🔹 Power BI    
-🔹 Tableau
-
-</div>
-
----
-
-### 🤖 AI & Machine Learning
-
-<div align="center">
-
-🔹 TensorFlow    
-🔹 Keras    
-🔹 CNN Models
-
-</div>
 
 ---
 
