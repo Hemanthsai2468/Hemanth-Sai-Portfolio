@@ -6,7 +6,7 @@
 
 ### ServiceNow Administrator | CSA Certified | AI & Machine Learning Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&center=true\&vCenter=true\&width=900\&lines=ServiceNow+Administrator;CSA+Certified;AI+%26+ML+Enthusiast;Enterprise+Automation+Specialist;Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&center=true\&vCenter=true\&width=900\&lines=ServiceNow+Administrator;CSA+Certified;AI+%26+ML+Enthusiast;Enterprise+Automation+Specialist;Python+Developer;Data+Engineering+Learner)](https://git.io/typing-svg)
 
 </div>
 
@@ -62,6 +62,8 @@
 
 </p>
 
+---
+
 ### 🌐 Web Technologies
 
 <p align="center">
@@ -70,6 +72,8 @@
 
 </p>
 
+---
+
 ### 🗄️ Database & Development Tools
 
 <p align="center">
@@ -77,6 +81,10 @@
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 
 </p>
+
+---
+
+### ☁️ Enterprise Platforms
 
 <p align="center">
 
@@ -100,20 +108,40 @@
 
 ---
 
-## 🤖 AI & Machine Learning
+### 🤖 AI & Machine Learning
 
 <p align="center">
 
 <a href="https://www.tensorflow.org/">
-<img height="55" src="https://cdn.simpleicons.org/tensorflow/FF6F00" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </a>
 
 <a href="https://keras.io/">
-<img height="55" src="https://cdn.simpleicons.org/keras/D00000" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network">
-<img height="55" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" />
+<img src="https://img.shields.io/badge/CNN-4285F4?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+### 📊 Data Engineering
+
+<p align="center">
+
+<a href="https://azure.microsoft.com/">
+<img src="https://skillicons.dev/icons?i=azure" />
+</a>
+
+<a href="https://spark.apache.org/">
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+</a>
+
+<a href="https://www.databricks.com/">
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 </a>
 
 </p>
@@ -177,7 +205,7 @@ Developed an end-to-end ServiceNow solution enabling employees to request:
 
 CNN-based image classification system for sustainable agriculture.
 
-🔗 Repository:
+Repository:
 https://github.com/Hemanthsai2468/Soyabean-seed-classification
 
 ---
@@ -186,7 +214,7 @@ https://github.com/Hemanthsai2468/Soyabean-seed-classification
 
 Deep learning model using chest X-ray images to identify pneumonia.
 
-🔗 Repository:
+Repository:
 https://github.com/Hemanthsai2468/phnemonia-detection-using-deep-learning
 
 ---
@@ -195,7 +223,7 @@ https://github.com/Hemanthsai2468/phnemonia-detection-using-deep-learning
 
 Machine learning-based health monitoring platform with intelligent alerts.
 
-🔗 Repository:
+Repository:
 https://github.com/Hemanthsai2468/Automated-Health-monitoring-System-With-Alerts
 
 ---
@@ -206,6 +234,7 @@ https://github.com/Hemanthsai2468/Automated-Health-monitoring-System-With-Alerts
 * Workflow Automation
 * Artificial Intelligence
 * Machine Learning
+* Data Engineering
 * Cloud Technologies
 * Enterprise Applications
 * Open Source Contributions
