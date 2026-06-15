@@ -286,7 +286,10 @@ https://github.com/Hemanthsai2468/Automated-Health-monitoring-System-With-Alerts
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hemanthsai2468&theme=tokyonight&row=1&column=6"/>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hemanthsai2468&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
+
 
 </div>
 
