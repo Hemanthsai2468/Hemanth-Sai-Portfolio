@@ -20,17 +20,15 @@
 
 🏅 ServiceNow Certified System Administrator (CSA)
 
-🌱 Currently Learning
+🚀 Passionate about ServiceNow, Enterprise Automation, Artificial Intelligence, Machine Learning, and Modern Web Applications.
+
+🌱 Currently Exploring:
 
 * Advanced ServiceNow Development
 * AI & Machine Learning
 * Enterprise Workflow Automation
 * Cloud Technologies
-* Data Engineering Concepts
-
-🎯 Career Objective
-
-To contribute to innovative organizations by leveraging my expertise in ServiceNow, automation, AI, and software development while continuously expanding my technical knowledge.
+* Data Engineering
 
 ---
 
@@ -52,27 +50,11 @@ To contribute to innovative organizations by leveraging my expertise in ServiceN
 
 ---
 
-## 🛠️ Tech Stack
-
-### Programming Languages
+## ⚡ Technologies & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,git,github,vscode" />
 </p>
-
-### Web Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
-### Database & Development Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</p>
-
-### Platforms & Technologies
 
 <p align="center">
 
@@ -93,19 +75,13 @@ To contribute to innovative organizations by leveraging my expertise in ServiceN
 
 **Techongen India Pvt. Ltd. | Hyderabad**
 
-✅ User Administration
-
-✅ Incident Management
-
-✅ Service Catalog Management
-
-✅ Workflow Automation
-
-✅ ITSM Operations
-
-✅ Role-Based Access Control
-
-✅ ServiceNow Administration
+* User Administration
+* Incident Management
+* Service Catalog Management
+* Workflow Automation
+* ITSM Operations
+* Role-Based Access Control
+* ServiceNow Administration
 
 ---
 
@@ -136,40 +112,30 @@ A complete Dealer & Corporate Management Platform featuring:
 
 ### 🔹 Employee Access & Asset Request Automation Portal
 
-A complete ServiceNow solution enabling employees to request:
+Developed an end-to-end ServiceNow solution enabling employees to request:
 
 * Assets
 * Software
 * VPN Access
 
-**Technologies Used**
-
-* Service Catalog
-* Flow Designer
-* ACLs
-* Business Rules
-* Script Includes
-* Import Sets
-* Dashboards
+**Technologies:** Service Catalog, Flow Designer, ACLs, Business Rules, Script Includes, Import Sets, Dashboards
 
 ---
 
 ### 🌱 Soybean Classification Using Deep Learning
 
-Deep learning-based image classification system using CNNs to identify soybean varieties.
+CNN-based image classification system for sustainable agriculture.
 
-🔗 Repository
-
+🔗 Repository:
 https://github.com/Hemanthsai2468/Soyabean-seed-classification
 
 ---
 
 ### 🫁 Pneumonia Detection Using Deep Learning
 
-AI-powered pneumonia detection using chest X-ray image analysis.
+Deep learning model using chest X-ray images to identify pneumonia.
 
-🔗 Repository
-
+🔗 Repository:
 https://github.com/Hemanthsai2468/phnemonia-detection-using-deep-learning
 
 ---
@@ -178,8 +144,7 @@ https://github.com/Hemanthsai2468/phnemonia-detection-using-deep-learning
 
 Machine learning-based health monitoring platform with intelligent alerts.
 
-🔗 Repository
-
+🔗 Repository:
 https://github.com/Hemanthsai2468/Automated-Health-monitoring-System-With-Alerts
 
 ---
@@ -246,7 +211,7 @@ https://github.com/Hemanthsai2468/Automated-Health-monitoring-System-With-Alerts
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for Visiting My Profile ⭐
 
 </div>
 
