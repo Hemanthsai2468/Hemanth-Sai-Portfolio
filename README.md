@@ -14,7 +14,7 @@
 
 ## 🙋‍♂️ About Me
 
-🎓 Computer Science Graduate
+🎓 Computer Science Engineering Graduate
 
 💼 ServiceNow Admin Intern at Techongen India Pvt. Ltd.
 
@@ -26,10 +26,11 @@
 * AI & Machine Learning
 * Enterprise Workflow Automation
 * Cloud Technologies
+* Data Engineering Concepts
 
 🎯 Career Objective
 
-To contribute to innovative organizations by leveraging my expertise in ServiceNow, automation, and software development while continuously expanding my technical knowledge.
+To contribute to innovative organizations by leveraging my expertise in ServiceNow, automation, AI, and software development while continuously expanding my technical knowledge.
 
 ---
 
@@ -65,20 +66,24 @@ To contribute to innovative organizations by leveraging my expertise in ServiceN
 <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
-### Databases & Tools
+### Database & Development Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
-### Platforms
+### Platforms & Technologies
 
-* ServiceNow
-* Zendesk
-* Power BI
-* Tableau
-* TensorFlow
-* Keras
+<p align="center">
+
+🔹 ServiceNow   |  
+🔹 Zendesk   |  
+🔹 Power BI   |  
+🔹 Tableau   |  
+🔹 TensorFlow   |  
+🔹 Keras
+
+</p>
 
 ---
 
@@ -112,6 +117,23 @@ To contribute to innovative organizations by leveraging my expertise in ServiceN
 
 ## 🚀 Featured Projects
 
+### 🏢 Hallmark Dealer Management System
+
+A complete Dealer & Corporate Management Platform featuring:
+
+* Role-Based Authentication
+* Dealer Dashboard
+* Corporate Dashboard
+* Product Management
+* Order Tracking
+* Payment Management
+* Sales Analytics
+* Inventory Monitoring
+
+**Tech Stack:** HTML, CSS, JavaScript, Firebase
+
+---
+
 ### 🔹 Employee Access & Asset Request Automation Portal
 
 A complete ServiceNow solution enabling employees to request:
@@ -120,7 +142,7 @@ A complete ServiceNow solution enabling employees to request:
 * Software
 * VPN Access
 
-Technologies Used:
+**Technologies Used**
 
 * Service Catalog
 * Flow Designer
@@ -136,7 +158,7 @@ Technologies Used:
 
 Deep learning-based image classification system using CNNs to identify soybean varieties.
 
-🔗 Repository:
+🔗 Repository
 
 https://github.com/Hemanthsai2468/Soyabean-seed-classification
 
@@ -146,7 +168,7 @@ https://github.com/Hemanthsai2468/Soyabean-seed-classification
 
 AI-powered pneumonia detection using chest X-ray image analysis.
 
-🔗 Repository:
+🔗 Repository
 
 https://github.com/Hemanthsai2468/phnemonia-detection-using-deep-learning
 
@@ -156,9 +178,21 @@ https://github.com/Hemanthsai2468/phnemonia-detection-using-deep-learning
 
 Machine learning-based health monitoring platform with intelligent alerts.
 
-🔗 Repository:
+🔗 Repository
 
 https://github.com/Hemanthsai2468/Automated-Health-monitoring-System-With-Alerts
+
+---
+
+## 🎯 Current Focus
+
+* ServiceNow Development & Administration
+* Workflow Automation
+* Artificial Intelligence
+* Machine Learning
+* Cloud Technologies
+* Enterprise Applications
+* Open Source Contributions
 
 ---
 
@@ -184,7 +218,7 @@ https://github.com/Hemanthsai2468/Automated-Health-monitoring-System-With-Alerts
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
