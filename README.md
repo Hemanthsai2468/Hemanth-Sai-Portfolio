@@ -62,7 +62,7 @@
 
 ### 🌐 Portfolio
 
-https://hemanthsai2468.github.io/Hemanth-Sai-Portfolio/
+https://hemanthanisetti.github.io/Hemanth-Sai-Portfolio/
 
 </div>
 
@@ -180,11 +180,11 @@ https://hemanthsai2468.github.io/Hemanth-Sai-Portfolio/
 
 ## 🏆 Certifications
 
-ServiceNow Certified System Administrator (CSA)
-Lions Club: Python Certificate – 2023
-Infosys Springboard: Course Completion – 2023
-IBM: Artificial Intelligence Internship – 2024
-Machine Learning Using Python – 2024
+-ServiceNow Certified System Administrator (CSA)
+-Lions Club: Python Certificate – 2023
+-Infosys Springboard: Course Completion – 2023
+-IBM: Artificial Intelligence Internship – 2024
+-Machine Learning Using Python – 2024
 
 ---
 
@@ -214,7 +214,7 @@ AI-powered customer support automation with conversational workflows and knowled
 
 🔗 Repository
 
-https://github.com/Hemanthsai2468/Soyabean-seed-classification
+https://github.com/Hemanthanisetti/Soyabean-seed-classification
 
 ---
 
@@ -222,7 +222,7 @@ https://github.com/Hemanthsai2468/Soyabean-seed-classification
 
 🔗 Repository
 
-https://github.com/Hemanthsai2468/phnemonia-detection-using-deep-learning
+https://github.com/Hemanthanisetti/phnemonia-detection-using-deep-learning
 
 ---
 
@@ -230,19 +230,7 @@ https://github.com/Hemanthsai2468/phnemonia-detection-using-deep-learning
 
 🔗 Repository
 
-https://github.com/Hemanthsai2468/Automated-Health-monitoring-System-With-Alerts
-
----
-
-## 🎯 Current Focus
-
-- ServiceNow Development
-- AI & Machine Learning
-- Data Engineering
-- Databricks
-- Azure
-- Enterprise Automation
-- Open Source Contributions
+https://github.com/Hemanthanisetti/Automated-Health-monitoring-System-With-Alerts
 
 ---
 
