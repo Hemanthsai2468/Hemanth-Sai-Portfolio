@@ -78,46 +78,47 @@
 
 </p>
 
-### ☁️ Enterprise Platforms
+## ☁️ Enterprise Platforms
 
 <p align="center">
 
 <a href="https://www.servicenow.com/">
-<img src="https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white"/>
+<img height="55" src="https://cdn.simpleicons.org/servicenow/81B441" />
 </a>
 
 <a href="https://www.zendesk.com/">
-<img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white"/>
+<img height="55" src="https://cdn.simpleicons.org/zendesk/03363D" />
 </a>
 
 <a href="https://powerbi.microsoft.com/">
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img height="55" src="https://cdn.simpleicons.org/powerbi/F2C811" />
 </a>
 
 <a href="https://www.tableau.com/">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img height="55" src="https://cdn.simpleicons.org/tableau/E97627" />
 </a>
 
 </p>
 
-### 🤖 AI & Machine Learning
+---
+
+## 🤖 AI & Machine Learning
 
 <p align="center">
 
 <a href="https://www.tensorflow.org/">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img height="55" src="https://cdn.simpleicons.org/tensorflow/FF6F00" />
 </a>
 
 <a href="https://keras.io/">
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img height="55" src="https://cdn.simpleicons.org/keras/D00000" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network">
-<img src="https://img.shields.io/badge/CNN%20Models-4285F4?style=for-the-badge"/>
+<img height="55" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" />
 </a>
 
 </p>
-
 ---
 
 ---
