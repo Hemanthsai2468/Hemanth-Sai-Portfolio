@@ -67,7 +67,7 @@ https://hemanthsai2468.github.io/Hemanth-Sai-Portfolio/
 </div>
 
 
-<div align="center">
+---
 
 # ⚡ Technologies & Tools
 
