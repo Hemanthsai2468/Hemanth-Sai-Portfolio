@@ -1,4 +1,3 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hemanth%20Sai%20Anisetti&fontSize=45&fontColor=ffffff
 # Hi 👋, I'm Hemanth Sai Anisetti
 
 <div align="center">
