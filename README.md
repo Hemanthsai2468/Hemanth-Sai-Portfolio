@@ -1,82 +1,106 @@
-# Hi 👋, I'm Hemanth Sai Anisetti
+![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0F2027,50:203A43,100:2C5364\&height=280\&section=header\&text=Hemanth%20Sai%20Anisetti\&fontSize=45\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35\&desc=ServiceNow%20Administrator%20|%20CSA%20Certified%20|%20AI%20Enthusiast\&descAlignY=55\&descSize=18)
 
 <div align="center">
 
-### ServiceNow Administrator | Computer Science Engineer | AI & Data Enthusiast
+# 👋 Hi, I'm Hemanth Sai Anisetti
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=ServiceNow+Administrator;CSA+Certified+Professional;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Always+Learning+New+Technologies" />
+### ServiceNow Administrator | CSA Certified | AI & Machine Learning Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&center=true\&vCenter=true\&width=900\&lines=ServiceNow+Administrator;CSA+Certified+Professional;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Enterprise+Automation+Specialist)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🙋‍♂️ About Me
 
-🎓 B.Tech Computer Science Graduate from Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology
+🎓 Computer Science Graduate
 
-💼 Currently working as a **ServiceNow Admin Intern** at Techongen India Pvt. Ltd., Hyderabad
+💼 ServiceNow Admin Intern at Techongen India Pvt. Ltd.
 
 🏅 ServiceNow Certified System Administrator (CSA)
 
-🌱 Passionate about:
+🌱 Currently Learning
 
-* ServiceNow Development & Administration
-* Workflow Automation
+* Advanced ServiceNow Development
 * AI & Machine Learning
-* Python Development
+* Enterprise Workflow Automation
 * Cloud Technologies
-* Enterprise Solutions
 
-🎯 Career Goal:
-To build innovative enterprise solutions that improve business efficiency through automation and intelligent technologies.
+🎯 Career Objective
+
+To contribute to innovative organizations by leveraging my expertise in ServiceNow, automation, and software development while continuously expanding my technical knowledge.
 
 ---
 
-## 🛠️ Technical Skills
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/Hemanthsai2468">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hemanthsai-anisetti-930428220">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:hemanthsaianisetty5@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
-
-### Service Management & Platforms
-
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge\&logo=servicenow\&logoColor=white)
-![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge\&logo=zendesk\&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+</p>
 
 ### Web Technologies
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
 
-### Databases & Analytics
+### Databases & Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
 
-### Machine Learning
+### Platforms
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+* ServiceNow
+* Zendesk
+* Power BI
+* Tableau
+* TensorFlow
+* Keras
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### ServiceNow Admin Intern
 
-📍 Techongen India Pvt. Ltd., Hyderabad
+**Techongen India Pvt. Ltd. | Hyderabad**
 
-* User Administration
-* Incident Management
-* Service Catalog Management
-* Workflow Automation
-* ITSM Processes
-* Role-Based Access Control
-* Enterprise Service Management
+✅ User Administration
+
+✅ Incident Management
+
+✅ Service Catalog Management
+
+✅ Workflow Automation
+
+✅ ITSM Operations
+
+✅ Role-Based Access Control
+
+✅ ServiceNow Administration
 
 ---
 
@@ -90,77 +114,106 @@ To build innovative enterprise solutions that improve business efficiency throug
 
 ### 🔹 Employee Access & Asset Request Automation Portal
 
-Developed an end-to-end ServiceNow solution enabling employees to request:
+A complete ServiceNow solution enabling employees to request:
 
 * Assets
 * Software
 * VPN Access
 
-Features:
+Technologies Used:
 
 * Service Catalog
-* Flow Designer Automation
-* ACL Security
+* Flow Designer
+* ACLs
 * Business Rules
 * Script Includes
 * Import Sets
-* Dashboards & Reporting
+* Dashboards
 
 ---
 
 ### 🌱 Soybean Classification Using Deep Learning
 
-CNN-based image classification system for sustainable agriculture.
+Deep learning-based image classification system using CNNs to identify soybean varieties.
 
 🔗 Repository:
+
 https://github.com/Hemanthsai2468/Soyabean-seed-classification
 
 ---
 
 ### 🫁 Pneumonia Detection Using Deep Learning
 
-Deep learning model using chest X-ray images to identify pneumonia.
+AI-powered pneumonia detection using chest X-ray image analysis.
 
 🔗 Repository:
+
 https://github.com/Hemanthsai2468/phnemonia-detection-using-deep-learning
 
 ---
 
 ### ❤️ Health Monitoring System With Alerts
 
-Health monitoring platform using Machine Learning and Cloud Technologies.
+Machine learning-based health monitoring platform with intelligent alerts.
 
 🔗 Repository:
+
 https://github.com/Hemanthsai2468/Automated-Health-monitoring-System-With-Alerts
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemanthsai2468\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthsai2468\&layout=compact\&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hemanthsai2468&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthsai2468&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hemanthsai2468\&theme=tokyonight)
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanthsai2468&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 GitHub Trophies
 
-📧 Email: [hemanthsaianisetty5@gmail.com](mailto:hemanthsaianisetty5@gmail.com)
+<div align="center">
 
-💼 LinkedIn: [www.linkedin.com/in/hemanthsai-anisetti-930428220](http://www.linkedin.com/in/hemanthsai-anisetti-930428220)
+<img src="https://github-profile-trophy.vercel.app/?username=Hemanthsai2468&theme=tokyonight&row=1&column=6"/>
 
-🐙 GitHub: https://github.com/Hemanthsai2468
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Hemanthsai2468\&style=for-the-badge)
+
+</div>
 
 ---
 
 ## 💡 Quote
 
-> "Continuous learning and innovation are the keys to building impactful technology solutions."
+> "Continuous learning, automation, and innovation drive impactful technology solutions."
 
-⭐ Thanks for visiting my profile!
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0F2027,50:203A43,100:2C5364\&height=120\&section=footer)
