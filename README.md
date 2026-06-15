@@ -163,24 +163,6 @@ https://hemanthsai2468.github.io/Hemanth-Sai-Portfolio/
 
 ---
 
-<h3>📊 Data Engineering</h3>
-
-<a href="https://azure.microsoft.com/">
-<img src="https://skillicons.dev/icons?i=azure" />
-</a>
-
-<a href="https://spark.apache.org/">
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-</a>
-
-<a href="https://www.databricks.com/">
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 ## 💼 Professional Experience
 
 ### ServiceNow Administrator Intern
@@ -198,7 +180,11 @@ https://hemanthsai2468.github.io/Hemanth-Sai-Portfolio/
 
 ## 🏆 Certifications
 
-🥇 ServiceNow Certified System Administrator (CSA)
+ServiceNow Certified System Administrator (CSA)
+Lions Club: Python Certificate – 2023
+Infosys Springboard: Course Completion – 2023
+IBM: Artificial Intelligence Internship – 2024
+Machine Learning Using Python – 2024
 
 ---
 
