@@ -78,24 +78,22 @@
 
 </p>
 
-## ☁️ Enterprise Platforms
-
 <p align="center">
 
 <a href="https://www.servicenow.com/">
-<img height="55" src="https://cdn.simpleicons.org/servicenow/81B441" />
+<img src="https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white"/>
 </a>
 
 <a href="https://www.zendesk.com/">
-<img height="55" src="https://cdn.simpleicons.org/zendesk/03363D" />
+<img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white"/>
 </a>
 
 <a href="https://powerbi.microsoft.com/">
-<img height="55" src="https://cdn.simpleicons.org/powerbi/F2C811" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </a>
 
 <a href="https://www.tableau.com/">
-<img height="55" src="https://cdn.simpleicons.org/tableau/E97627" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </a>
 
 </p>
