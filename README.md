@@ -281,15 +281,6 @@ https://github.com/Hemanthsai2468/Automated-Health-monitoring-System-With-Alerts
 
 ---
 
-## 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Hemanthsai2468&style=for-the-badge"/>
-
-</div>
-
----
 
 ## 💡 Quote
 
