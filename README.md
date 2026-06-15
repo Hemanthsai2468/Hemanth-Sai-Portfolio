@@ -181,10 +181,7 @@ https://hemanthanisetti.github.io/Hemanth-Sai-Portfolio/
 ## 🏆 Certifications
 
 -ServiceNow Certified System Administrator (CSA)
--Lions Club: Python Certificate – 2023
--Infosys Springboard: Course Completion – 2023
--IBM: Artificial Intelligence Internship – 2024
--Machine Learning Using Python – 2024
+
 
 ---
 
